@@ -10,6 +10,10 @@ int main()
     printf("Hello, World\n"); //C
     std::cout << "Hello World!\n"; //C++
 
+    float x;
+    std::cin >> x;
+    std::cout << x;
+
     return 0;
 }
 
