@@ -1,6 +1,6 @@
 // 서버(Server.cpp)와 클라이언트(Client.cpp)가 연결되면
 // 서버에 connected 메시지 출력, 클라이언트에게서 메시지받고
-// bye의 크기와 함께 받아온 메시지 출력
+// bye의 크기와 함께 받아온 메시지 출력함
 
 #include   <winsock.h>
 #include   <stdio.h>

@@ -1,6 +1,6 @@
 // client : implementation file
 // 서버(Server.cpp)와 클라이언트(Client.cpp)가 연결되면
-// 서버로 hello메시지 보내고 서버에서 메시지 받아 bye출력
+// 서버로 hello메시지 보내고 서버에서 메시지 받아 bye출력함
 
 #include   <winsock.h>
 #include   <stdio.h>
